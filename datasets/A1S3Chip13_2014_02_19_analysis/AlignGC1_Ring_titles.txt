@@ -1,0 +1,46 @@
+Report for Grating coupler and ring resonator non-uniformity
+
+Chip ID: A1-waferS3-1-chip13, 298 devices
+
+
+*************************
+*** Figure captions: ***
+
+Fig. 4: timestamps, sorted
+
+Fig. 5: 
+
+Fig. 6: outliers, ring ng
+
+Fig. 7: 
+
+Fig. 8: 
+
+Fig. 9: outliers, GC wavelength
+
+Fig. 10: 
+
+Fig. 11: outliers, GC insertion loss
+
+Fig. 1: Typical GC+Ring Optical Spectrum: 6151.685,24254.5
+
+Fig. 12: Physical location of test structures on chip
+
+Fig. 13: Resonances for a fixed mode number
+
+Fig. 14: Resonator wavelength deviation, mean 1530.38nm
+
+Fig. 15: Waveguide Group Index
+
+Fig. 16: Grating coupler peak wavelength deviation, mean 1549.52nm
+
+Fig. 17: Grating coupler Insertion Loss deviation, mean -8.38 dB
+
+Fig. 18: 44253 combinations of 2 resonators
+
+Fig. 19: Resonator: 44253 combinations of 2 resonators, fit line 0.043164x + 0.83126
+
+Fig. 21: Resonator: 44253 combinations of 2 resonators, fit line 0.066633x + 0.82664
+
+Fig. 22: Grating coupler wavelength: 44253 combinations of 2 GC pairs, fit line 0.0236x + 0.6685
+
