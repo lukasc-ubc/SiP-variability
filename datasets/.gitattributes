@@ -3,3 +3,4 @@ A1S3Chip13_2014_02_19.zip filter=lfs diff=lfs merge=lfs -text
 A1S3Chip13_2014_03_08.zip filter=lfs diff=lfs merge=lfs -text
 SiEPIC_A1_371_Rings_New.zip filter=lfs diff=lfs merge=lfs -text
 IME_A4_2015_02.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
